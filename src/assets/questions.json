@@ -1,0 +1,212 @@
+{
+    "questions": [
+        {
+            "name": "Rzecz związana z ogniem",
+            "played": false,
+            "answers":[
+                {"name": "Ognisko", "points": 9},
+                {"name": "Drewno", "points": 4},
+                {"name": "Pożar", "points": 3},
+                {"name": "Iskra/Iskierka", "points": 2},
+                {"name": "Harcerstwo", "points": 1},
+                {"name": "Kora", "points": 1},
+                {"name": "Popiół", "points": 1},
+                {"name": "Skoki nad ogniskiem", "points": 1},
+                {"name": "Węgiel", "points": 1},
+                {"name": "Wiedźmy", "points": 1},
+                {"name": "Zapałki", "points": 2}
+            ]
+        },
+        {
+            "name": "Rzecz związana z powietrzem",
+            "played": false,
+            "answers":[
+                {"name": "Wiatr", "points": 4},
+                {"name": "Tornado/Huragan", "points": 3},
+                {"name": "Wiatraki", "points": 3},
+                {"name": "Ptaki", "points": 2},
+                {"name": "Samolot", "points": 2},
+                {"name": "Tlen", "points": 2},
+                {"name": "Bryza morska", "points": 1},
+                {"name": "Chmury", "points": 1},
+                {"name": "Dmuchanie", "points": 1},
+                {"name": "Dwutlenek węgla", "points": 1},
+                {"name": "Płuca", "points": 1},
+                {"name": "Zanieczyszczenia", "points": 1},
+                {"name": "Zaprawa", "points": 1},
+                {"name": "Życie", "points": 1}
+            ]
+        },
+        {
+            "name": "Rzecz związana z ziemią",
+            "played": false,
+            "answers":[
+                {"name": "Kwiaty/rośliny", "points": 5},
+                {"name": "Dżdżownica", "points": 4},
+                {"name": "Łopata", "points": 2},
+                {"name": "Błoto", "points": 2},
+                {"name": "Grunt", "points": 2},
+                {"name": "Brud", "points": 1},
+                {"name": "Kamień", "points": 1},
+                {"name": "Kontynent", "points": 1},
+                {"name": "Krety", "points": 1},
+                {"name": "Księżyc", "points": 1},
+                {"name": "Las", "points": 1},
+                {"name": "Ludzie", "points": 1},
+                {"name": "Natura", "points": 1},
+                {"name": "Robaki", "points": 1},
+                {"name": "Trawa", "points": 1},
+                {"name": "Ziemniaki", "points": 1}
+            ]
+        },
+        {
+            "name": "Rzecz związana z wodą",
+            "played": false,
+            "answers":[
+                {"name": "Ryby", "points": 4},
+                {"name": "Statek/Łódka", "points": 3},
+                {"name": "Jezioro", "points": 2},
+                {"name": "Rzeka", "points": 2},
+                {"name": "Morze", "points": 2},
+                {"name": "Fale", "points": 1},
+                {"name": "Kostium kąpielowy", "points": 1},
+                {"name": "Mycie się", "points": 1},
+                {"name": "Ocean", "points": 1},
+                {"name": "Płetwa", "points": 1},
+                {"name": "Rafa koralowa", "points": 1},
+                {"name": "Wędka", "points": 1},
+                {"name": "Wodniacy", "points": 1},
+                {"name": "Wodospad", "points": 1},
+                {"name": "Łódź podwodna", "points": 1},
+                {"name": "Życie", "points": 1}
+            ]
+        },
+        {
+            "name": "Punkt prawa harcerskiego",
+            "played": false,
+            "answers":[
+                {"name": "8. Harcerz jest zawsze pogodny.", "points": 9},
+                {"name": "2. Na słowie harcerza polegaj jak na zawiszy.", "points": 7},
+                {"name": "5. Harcerz postępuje po rycersku.", "points": 4},
+                {"name": "6. Harcerz miłuje przyrodę i stara się ją poznać.", "points": 4},
+                {"name": "3. Harcerz jest pożyteczny i niesie pomoc bliźnim.", "points": 3},
+                {"name": "1. Harcerz sumiennie spełnia swoje obowiązki wynikające z Przyrzeczenia Harcerskiego.", "points": 2},
+                {"name": "4. Harcerz w każdym widzi bliźniego, a za brata uważa każdego innego harcerza.", "points": 2},
+                {"name": "9. Harcerz jest oszczędny i ofiarny.", "points": 2},
+                {"name": "7 Harcerz jest karny i posłuszny rodzicom i wszystkim swoim przełożonym.", "points": 1},
+                {"name": "10. Harcerz pracuje nad sobą, jest czysty w myśli, mowie i uczynkach; jest wolny od nałogów.", "points": 1}
+            ]
+        },
+        {
+            "name": "Stopień harcerski",
+            "played": false,
+            "answers":[
+                {"name": "Samarytanka", "points": 11},
+                {"name": "Ćwik", "points": 8},
+                {"name": "Harcerz Orli", "points": 4},
+                {"name": "Harcerz Rzeczypospolitej", "points": 3},
+                {"name": "Harcerka Rzeczypospolitej", "points": 3},
+                {"name": "Pionierka", "points": 3},
+                {"name": "Harcerka Orla", "points": 2},
+                {"name": "Młodzik", "points": 1},
+                {"name": "Ochotniczka", "points": 1},
+                {"name": "Wywiadowca", "points": 1},
+                {"name": "Tropicielka", "points": 1},
+                {"name": "Odkrywca", "points": 1}
+            ]
+        },
+        {
+            "name": "Drużyna w hufcu ZHP Radom-Miasto",
+            "played": false,
+            "answers":[
+                {"name": "34. RDHS 'Meksyk II'", "points": 11},
+                {"name": "34. RDW 'Ohana'", "points": 7},
+                {"name": "34. RDH 'BOMBA'", "points": 4},
+                {"name": "34. RGZ 'Jeźdźcy Smoków'", "points": 2},
+                {"name": "15. RDHS 'Buki'", "points": 1},
+                {"name": "64. RDHS 'Lakhota'", "points": 1}
+            ]
+        },
+        {
+            "name": "Element munduru",
+            "played": false,
+            "answers":[
+                {"name": "Pagony", "points": 5},
+                {"name": "Krzyż harcerski", "points": 4},
+                {"name": "Rogatywka", "points": 4},
+                {"name": "Chusta", "points": 3},
+                {"name": "Koszula", "points": 2},
+                {"name": "Guziki", "points": 1},
+                {"name": "Bojówki", "points": 1},
+                {"name": "Flaga", "points": 1},
+                {"name": "Odznaka DMB", "points": 1},
+                {"name": "Pierścień", "points": 1},
+                {"name": "Plakietka WAGGGS", "points": 1},
+                {"name": "Sznur", "points": 1}
+            ]
+        },
+        {
+            "name": "Rodzaj ogniska",
+            "played": false,
+            "answers":[
+                {"name": "Studnia", "points": 15},
+                {"name": "Tipi/Stożek", "points": 4},
+                {"name": "Pagoda", "points": 2},
+                {"name": "2-metrowe ognisko Kopacza", "points": 1},
+                {"name": "Mundurowe", "points": 1},
+                {"name": "Szwedzkie", "points": 1},
+                {"name": "Trumienka", "points": 1}
+            ]
+        },
+        {
+            "name": "Kolor sznura",
+            "played": false,
+            "answers":[
+                {"name": "Zielony", "points": 12},
+                {"name": "Granatowy", "points": 5},
+                {"name": "Czerwony", "points": 3},
+                {"name": "Brązowy", "points": 2},
+                {"name": "Szary", "points": 2},
+                {"name": "Fioletowy", "points": 1},
+                {"name": "Skórzany", "points": 1}
+            ]
+        },
+        {
+            "name": "Piosenka harcerska",
+            "played": false,
+            "answers":[
+                {"name": "Zapach róży", "points": 6},
+                {"name": "Harcerskie ideały", "points": 2},
+                {"name": "Emeryt", "points": 2},
+                {"name": "Hej przyjaciele", "points": 2},
+                {"name": "Krajka", "points": 2},
+                {"name": "Major ponury", "points": 2},
+                {"name": "Zostanie tyle gór", "points": 2},
+                {"name": "Bieszczadzki trakt", "points": 1},
+                {"name": "Bitwa", "points": 1},
+                {"name": "Bolero", "points": 1},
+                {"name": "Łemata", "points": 1},
+                {"name": "Obietnica", "points": 1},
+                {"name": "Pożegnalny ton", "points": 1},
+                {"name": "Sosenka", "points": 1},
+                {"name": "Wspomnienia bumeranga", "points": 1},
+                {"name": "Zmierzch", "points": 1}
+            ]
+        },
+        {
+            "name": "Komenda (muszta)",
+            "played": false,
+            "answers":[
+                {"name": "Baczność", "points": 10},
+                {"name": "Spocznij", "points": 5},
+                {"name": "Ósemki/czwórki w marszu twórz", "points": 2},
+                {"name": "Drużyna", "points": 1},
+                {"name": "Kolejno odlicz", "points": 1},
+                {"name": "W prawo zwrot", "points": 1},
+                {"name": "W szyku apelowym zbiórk", "points": 1},
+                {"name": "W tył zwrot", "points": 1},
+                {"name": "Za mną marsz", "points": 1}
+            ]
+        }
+    ]
+}
